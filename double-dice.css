@@ -1,0 +1,52 @@
+*{
+    background-color: bisque;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:30px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+#back-button{
+    width:80px;
+    border: 3px solid black;
+    border-radius:5px;   
+    position:relative;
+    left:-2.5%;  
+}
+
+#dice{
+    width: 80px;
+    height: 80px;
+    border: 2px solid bisque;
+    border-radius: 15px;
+}
+
+#dice2{
+    width: 80px;
+    height: 80px;
+    border: 2px solid bisque;
+    border-radius: 15px;
+}
+
+#div1{
+    position:relative;
+    left:50%;
+    top:20%;
+}
+
+#div2{
+    position:relative;
+    left:-5%;
+    top:20%;
+}
+
+#roll-button{
+    width:80px;
+    border: 3px solid black;
+    border-radius:5px;   
+    position:relative;
+    left:-2.5%;
+}
